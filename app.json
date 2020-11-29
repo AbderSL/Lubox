@@ -1,13 +1,13 @@
 {
     "app": {
         "name": "Lulu-box guide",
-        "color": "#008577"
+        "color": "#8A3BA4"
     },
     
     
     "ads":{
-        "bannerId": "347452739743457_347454283076636",
-        "interstitialId": "ca-app-pub-1636943929816716/3182903904"
+        "bannerId": "000000000",
+        "interstitialId": "00000000"
     },
     
     
